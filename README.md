@@ -1,5 +1,7 @@
 # Exercise
 
+Build a simple project of data processing, model training and deploying to production.
+
 ### Repository structure:
 
 - data_preparation.ipynb contains data inspection and manipulation
